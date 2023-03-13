@@ -10,21 +10,28 @@
 
   <data name="ru_panogroup45_title"><![CDATA[street]]></data>
 
-  <data name="ru_pano37_title"><![CDATA[Pano_01]]></data>
-  <data name="ru_pano38_title"><![CDATA[Pano_06]]></data>
-  <data name="ru_spotpoint78_tooltip"><![CDATA[Pano_01]]></data>
-  <data name="ru_pano39_title"><![CDATA[Pano_11]]></data>
-  <data name="ru_spotpoint77_tooltip"><![CDATA[Pano_06]]></data>
-  <data name="ru_pano40_title"><![CDATA[Pano_13]]></data>
-  <data name="ru_spotpoint76_tooltip"><![CDATA[Pano_11]]></data>
-  <data name="ru_pano41_title"><![CDATA[Pano_14]]></data>
-  <data name="ru_spotpoint75_tooltip"><![CDATA[Pano_13]]></data>
-  <data name="ru_pano42_title"><![CDATA[Pano_16]]></data>
-  <data name="ru_spotpoint74_tooltip"><![CDATA[Pano_14]]></data>
-  <data name="ru_pano43_title"><![CDATA[Pano_18]]></data>
-  <data name="ru_spotpoint73_tooltip"><![CDATA[Pano_16]]></data>
-  <data name="ru_pano44_title"><![CDATA[Pano_21]]></data>
-  <data name="ru_spotpoint72_tooltip"><![CDATA[Pano_18]]></data>
+  <data name="ru_pano37_title"><![CDATA[Карла-Маркса - Рознина]]></data>
+  <data name="ru_spotpoint53_tooltip"><![CDATA[Карла-Маркса - Пионерская]]></data>
+  <data name="ru_pano38_title"><![CDATA[Карла-Маркса - Пионерская]]></data>
+  <data name="ru_spotpoint54_tooltip"><![CDATA[Карла-Маркса - Пионерская]]></data>
+  <data name="ru_spotpoint78_tooltip"><![CDATA[Карла-Маркса - Рознина]]></data>
+  <data name="ru_pano39_title"><![CDATA[Карла-Маркса - Пионерская]]></data>
+  <data name="ru_spotpoint55_tooltip"><![CDATA[Карла-Маркса]]></data>
+  <data name="ru_spotpoint77_tooltip"><![CDATA[Карла-Маркса - Пионерская]]></data>
+  <data name="ru_pano40_title"><![CDATA[Карла-Маркса]]></data>
+  <data name="ru_spotpoint56_tooltip"><![CDATA[Карла-Маркса - Комсомольская]]></data>
+  <data name="ru_spotpoint76_tooltip"><![CDATA[Карла-Маркса - Пионерская]]></data>
+  <data name="ru_pano41_title"><![CDATA[Карла-Маркса - Комсомольская]]></data>
+  <data name="ru_spotpoint57_tooltip"><![CDATA[Карла-Маркса - Комсомольская]]></data>
+  <data name="ru_spotpoint75_tooltip"><![CDATA[Карла-Маркса]]></data>
+  <data name="ru_pano42_title"><![CDATA[Карла-Маркса - Комсомольская]]></data>
+  <data name="ru_spotpoint58_tooltip"><![CDATA[Карла-Маркса - ТЦ Гермес]]></data>
+  <data name="ru_spotpoint74_tooltip"><![CDATA[Карла-Маркса - Комсомольская]]></data>
+  <data name="ru_pano43_title"><![CDATA[Карла-Маркса - ТЦ Гермес]]></data>
+  <data name="ru_spotpoint59_tooltip"><![CDATA[Карла-Маркса - Торговый дом]]></data>
+  <data name="ru_spotpoint73_tooltip"><![CDATA[Карла-Маркса - Комсомольская]]></data>
+  <data name="ru_pano44_title"><![CDATA[Карла-Маркса - Торговый дом]]></data>
+  <data name="ru_spotpoint72_tooltip"><![CDATA[Карла-Маркса - ТЦ Гермес]]></data>
 
 
 
